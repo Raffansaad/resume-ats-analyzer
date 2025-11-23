@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+scikit-learn
+numpy
+reportlab
+pandas
+regex
